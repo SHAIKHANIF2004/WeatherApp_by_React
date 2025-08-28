@@ -7,36 +7,30 @@ A simple and responsive Weather Application built using React, Material-UI, CSS,
 
 🚀 Features
 
-🌍 Search weather by city name.
+->🌍 Search weather by city name.
 
-📡 Real-time weather data using an API.
+->📡 Real-time weather data using an API.
 
-🎨 Modern UI with Material-UI components.
+->🎨 Modern UI with Material-UI components.
 
-📱 Responsive design for mobile and desktop.
+->📱 Responsive design for mobile and desktop.
 
-🌡️ Displays temperature, humidity, pressure, and wind speed.
+->🌡️ Displays temperature, humidity, pressure, and wind speed.
 
-☁️ Dynamic weather icons for better visualization.
+->☁️ Dynamic weather icons for better visualization.
 
 🛠️ Tech Stack
 
-Frontend: React.js, HTML5, CSS3, JavaScript
+->Frontend: React.js, HTML5, CSS3, JavaScript
 
-UI Framework: Material-UI (MUI)
+->UI Framework: Material-UI (MUI)
 
-API: OpenWeatherMap API (or any weather API you used)
+->API: OpenWeatherMap API (or any weather API you used)
 
 📂 Project Structure
 weather-app/
-│-- public/              # Static files
-│-- src/
-│   │-- components/      # Reusable React components
-│   │-- App.js           # Main application file
-│   │-- index.js         # React DOM render
-│   │-- App.css          # Custom CSS styling
-│-- package.json         # Dependencies and scripts
-│-- README.md            # Project documentation
+<img width="1330" height="694" alt="image" src="https://github.com/user-attachments/assets/500a0caf-cb7f-4dda-b0c2-f4e6b8dac250" />
+
 
 📸 Screenshots
 
@@ -45,13 +39,13 @@ weather-app/
 
 📌 Future Enhancements
 
-🌐 Add current location weather using Geolocation API.
+->🌐 Add current location weather using Geolocation API.
 
-📅 Show 5-day / hourly forecast.
+->📅 Show 5-day / hourly forecast.
 
-🎨 Add dark/light theme toggle.
+->🎨 Add dark/light theme toggle.
 
-📊 Add charts for temperature variations.
+->📊 Add charts for temperature variations.
 
 🤝 Contributing
 
