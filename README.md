@@ -27,8 +27,6 @@ A simple and responsive Weather Application built using React, Material-UI, CSS,
 
 ->API: OpenWeatherMap API (or any weather API you used)
 
-📂 Project Structure
-weather-app/
 <img width="1330" height="694" alt="image" src="https://github.com/user-attachments/assets/500a0caf-cb7f-4dda-b0c2-f4e6b8dac250" />
 
 
