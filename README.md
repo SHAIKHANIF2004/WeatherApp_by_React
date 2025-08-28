@@ -1,12 +1,58 @@
-# React + Vite
+🌦️ Weather App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive Weather Application built using React, Material-UI, CSS, JavaScript, and HTML. This app fetches real-time weather data using a weather API and displays details like temperature, humidity, wind speed, and weather conditions in a clean UI.
 
-Currently, two official plugins are available:
+👉 Live Demo: Weather App
+[**🌦️ Weather App Live »**](https://weather-app-by-react-nu.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Features
 
-## Expanding the ESLint configuration
+🌍 Search weather by city name.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📡 Real-time weather data using an API.
+
+🎨 Modern UI with Material-UI components.
+
+📱 Responsive design for mobile and desktop.
+
+🌡️ Displays temperature, humidity, pressure, and wind speed.
+
+☁️ Dynamic weather icons for better visualization.
+
+🛠️ Tech Stack
+
+Frontend: React.js, HTML5, CSS3, JavaScript
+
+UI Framework: Material-UI (MUI)
+
+API: OpenWeatherMap API (or any weather API you used)
+
+📂 Project Structure
+weather-app/
+│-- public/              # Static files
+│-- src/
+│   │-- components/      # Reusable React components
+│   │-- App.js           # Main application file
+│   │-- index.js         # React DOM render
+│   │-- App.css          # Custom CSS styling
+│-- package.json         # Dependencies and scripts
+│-- README.md            # Project documentation
+
+📸 Screenshots
+
+<img width="1732" height="1492" alt="image" src="https://github.com/user-attachments/assets/39255077-ec43-4ec8-b324-f5b173f89cc7" />
+
+
+📌 Future Enhancements
+
+🌐 Add current location weather using Geolocation API.
+
+📅 Show 5-day / hourly forecast.
+
+🎨 Add dark/light theme toggle.
+
+📊 Add charts for temperature variations.
+
+🤝 Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests.
